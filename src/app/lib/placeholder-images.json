@@ -1,0 +1,11 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "A sleek 3D rendered abstract geometric landscape",
+      "imageUrl": "https://picsum.photos/seed/orbitrender/1920/1080",
+      "imageHint": "3D geometric"
+    }
+  ]
+}
